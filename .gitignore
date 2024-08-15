@@ -1,6 +1,0 @@
-*.pt
-
-!models/best_traffic_nano_yolo.pt
-
-*.m
-
